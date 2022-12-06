@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Blink'
+copyright = '2022, SENSE lab'
+author = 'JonathanHsieh'
 
 release = '0.1'
 version = '0.1.0'
@@ -33,3 +33,10 @@ html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+# Add any paths that contain custom static files (such as style sheets) here,
+# relative to this directory. They are copied after the builtin static files,
+# so a file named "default.css" will overwrite the builtin "default.css".
+# html_static_path = ['_static']
+master_doc = 'index'
+html_logo = "blink_logo.png"
