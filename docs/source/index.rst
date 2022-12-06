@@ -1,13 +1,15 @@
 Welcome to BLINK's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**BLINK** (Binary LINt Kit) is an Android quality/vunlnerability assessment framework
+It supports various Android application analyzing workflows
+without the need for application's source code and follows samw rule definition 
+style of `Android Lint <https://developer.android.com/studio/write/lint>`, 
+an official Android source code analyzing tool, to assure one *reliable* source of
+ future updates.
 
 Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+how to :ref:`setup` the project.
 
 .. note::
 
